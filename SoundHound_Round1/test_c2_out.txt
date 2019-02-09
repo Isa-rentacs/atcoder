@@ -1,0 +1,1667 @@
+beauty = 3 : count = 1
+sum = 3
+=== end of n = 1 ===
+beauty = 0 : count = 2
+beauty = 1 : count = 6
+beauty = 2 : count = 6
+beauty = 3 : count = 2
+sum = 24
+=== end of n = 2 ===
+beauty = 0 : count = 24
+beauty = 1 : count = 36
+beauty = 2 : count = 18
+beauty = 3 : count = 3
+sum = 81
+=== end of n = 3 ===
+beauty = 0 : count = 108
+beauty = 1 : count = 108
+beauty = 2 : count = 36
+beauty = 3 : count = 4
+sum = 192
+=== end of n = 4 ===
+beauty = 0 : count = 320
+beauty = 1 : count = 240
+beauty = 2 : count = 60
+beauty = 3 : count = 5
+sum = 375
+=== end of n = 5 ===
+beauty = 0 : count = 750
+beauty = 1 : count = 450
+beauty = 2 : count = 90
+beauty = 3 : count = 6
+sum = 648
+=== end of n = 6 ===
+beauty = 0 : count = 1512
+beauty = 1 : count = 756
+beauty = 2 : count = 126
+beauty = 3 : count = 7
+sum = 1029
+=== end of n = 7 ===
+beauty = 0 : count = 2744
+beauty = 1 : count = 1176
+beauty = 2 : count = 168
+beauty = 3 : count = 8
+sum = 1536
+=== end of n = 8 ===
+beauty = 0 : count = 4608
+beauty = 1 : count = 1728
+beauty = 2 : count = 216
+beauty = 3 : count = 9
+sum = 2187
+=== end of n = 9 ===
+=== end of d = 0 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 2
+beauty = 1 : count = 6
+beauty = 2 : count = 6
+beauty = 3 : count = 2
+sum = 24
+=== end of n = 2 ===
+beauty = 0 : count = 17
+beauty = 1 : count = 28
+beauty = 2 : count = 28
+beauty = 3 : count = 8
+sum = 108
+=== end of n = 3 ===
+beauty = 0 : count = 68
+beauty = 1 : count = 104
+beauty = 2 : count = 68
+beauty = 3 : count = 16
+sum = 288
+=== end of n = 4 ===
+beauty = 0 : count = 205
+beauty = 1 : count = 264
+beauty = 2 : count = 132
+beauty = 3 : count = 24
+sum = 600
+=== end of n = 5 ===
+beauty = 0 : count = 500
+beauty = 1 : count = 544
+beauty = 2 : count = 220
+beauty = 3 : count = 32
+sum = 1080
+=== end of n = 6 ===
+beauty = 0 : count = 1049
+beauty = 1 : count = 980
+beauty = 2 : count = 332
+beauty = 3 : count = 40
+sum = 1764
+=== end of n = 7 ===
+beauty = 0 : count = 1972
+beauty = 1 : count = 1608
+beauty = 2 : count = 468
+beauty = 3 : count = 48
+sum = 2688
+=== end of n = 8 ===
+beauty = 0 : count = 3413
+beauty = 1 : count = 2464
+beauty = 2 : count = 628
+beauty = 3 : count = 56
+sum = 3888
+=== end of n = 9 ===
+beauty = 0 : count = 5540
+beauty = 1 : count = 3584
+beauty = 2 : count = 812
+beauty = 3 : count = 64
+sum = 5400
+=== end of n = 10 ===
+=== end of d = 1 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 41
+beauty = 1 : count = 28
+beauty = 2 : count = 10
+beauty = 3 : count = 2
+sum = 54
+=== end of n = 3 ===
+beauty = 0 : count = 108
+beauty = 1 : count = 108
+beauty = 2 : count = 36
+beauty = 3 : count = 4
+sum = 192
+=== end of n = 4 ===
+beauty = 0 : count = 281
+beauty = 1 : count = 248
+beauty = 2 : count = 86
+beauty = 3 : count = 10
+sum = 450
+=== end of n = 5 ===
+beauty = 0 : count = 624
+beauty = 1 : count = 496
+beauty = 2 : count = 160
+beauty = 3 : count = 16
+sum = 864
+=== end of n = 6 ===
+beauty = 0 : count = 1231
+beauty = 1 : count = 894
+beauty = 2 : count = 252
+beauty = 3 : count = 24
+sum = 1470
+=== end of n = 7 ===
+beauty = 0 : count = 2224
+beauty = 1 : count = 1472
+beauty = 2 : count = 368
+beauty = 3 : count = 32
+sum = 2304
+=== end of n = 8 ===
+beauty = 0 : count = 3747
+beauty = 1 : count = 2266
+beauty = 2 : count = 508
+beauty = 3 : count = 40
+sum = 3402
+=== end of n = 9 ===
+beauty = 0 : count = 5968
+beauty = 1 : count = 3312
+beauty = 2 : count = 672
+beauty = 3 : count = 48
+sum = 4800
+=== end of n = 10 ===
+beauty = 0 : count = 9079
+beauty = 1 : count = 4646
+beauty = 2 : count = 860
+beauty = 3 : count = 56
+sum = 6534
+=== end of n = 11 ===
+=== end of d = 2 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 178
+beauty = 1 : count = 62
+beauty = 2 : count = 14
+beauty = 3 : count = 2
+sum = 96
+=== end of n = 4 ===
+beauty = 0 : count = 377
+beauty = 1 : count = 200
+beauty = 2 : count = 44
+beauty = 3 : count = 4
+sum = 300
+=== end of n = 5 ===
+beauty = 0 : count = 750
+beauty = 1 : count = 450
+beauty = 2 : count = 90
+beauty = 3 : count = 6
+sum = 648
+=== end of n = 6 ===
+beauty = 0 : count = 1417
+beauty = 1 : count = 804
+beauty = 2 : count = 168
+beauty = 3 : count = 12
+sum = 1176
+=== end of n = 7 ===
+beauty = 0 : count = 2482
+beauty = 1 : count = 1326
+beauty = 2 : count = 270
+beauty = 3 : count = 18
+sum = 1920
+=== end of n = 8 ===
+beauty = 0 : count = 4089
+beauty = 1 : count = 2052
+beauty = 2 : count = 396
+beauty = 3 : count = 24
+sum = 2916
+=== end of n = 9 ===
+beauty = 0 : count = 6404
+beauty = 1 : count = 3024
+beauty = 2 : count = 540
+beauty = 3 : count = 32
+sum = 4200
+=== end of n = 10 ===
+beauty = 0 : count = 9621
+beauty = 1 : count = 4272
+beauty = 2 : count = 708
+beauty = 3 : count = 40
+sum = 5808
+=== end of n = 11 ===
+beauty = 0 : count = 13956
+beauty = 1 : count = 5832
+beauty = 2 : count = 900
+beauty = 3 : count = 48
+sum = 7776
+=== end of n = 12 ===
+=== end of d = 3 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 497
+beauty = 1 : count = 108
+beauty = 2 : count = 18
+beauty = 3 : count = 2
+sum = 150
+=== end of n = 5 ===
+beauty = 0 : count = 924
+beauty = 1 : count = 316
+beauty = 2 : count = 52
+beauty = 3 : count = 4
+sum = 432
+=== end of n = 6 ===
+beauty = 0 : count = 1633
+beauty = 1 : count = 660
+beauty = 2 : count = 102
+beauty = 3 : count = 6
+sum = 882
+=== end of n = 7 ===
+beauty = 0 : count = 2744
+beauty = 1 : count = 1176
+beauty = 2 : count = 168
+beauty = 3 : count = 8
+sum = 1536
+=== end of n = 8 ===
+beauty = 0 : count = 4433
+beauty = 1 : count = 1840
+beauty = 2 : count = 274
+beauty = 3 : count = 14
+sum = 2430
+=== end of n = 9 ===
+beauty = 0 : count = 6844
+beauty = 1 : count = 2732
+beauty = 2 : count = 404
+beauty = 3 : count = 20
+sum = 3600
+=== end of n = 10 ===
+beauty = 0 : count = 10169
+beauty = 1 : count = 3888
+beauty = 2 : count = 558
+beauty = 3 : count = 26
+sum = 5082
+=== end of n = 11 ===
+beauty = 0 : count = 14624
+beauty = 1 : count = 5344
+beauty = 2 : count = 736
+beauty = 3 : count = 32
+sum = 6912
+=== end of n = 12 ===
+beauty = 0 : count = 20447
+beauty = 1 : count = 7142
+beauty = 2 : count = 932
+beauty = 3 : count = 40
+sum = 9126
+=== end of n = 13 ===
+=== end of d = 4 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1106
+beauty = 1 : count = 166
+beauty = 2 : count = 22
+beauty = 3 : count = 2
+sum = 216
+=== end of n = 6 ===
+beauty = 0 : count = 1881
+beauty = 1 : count = 456
+beauty = 2 : count = 60
+beauty = 3 : count = 4
+sum = 588
+=== end of n = 7 ===
+beauty = 0 : count = 3070
+beauty = 1 : count = 906
+beauty = 2 : count = 114
+beauty = 3 : count = 6
+sum = 1152
+=== end of n = 8 ===
+beauty = 0 : count = 4817
+beauty = 1 : count = 1552
+beauty = 2 : count = 184
+beauty = 3 : count = 8
+sum = 1944
+=== end of n = 9 ===
+beauty = 0 : count = 7290
+beauty = 1 : count = 2430
+beauty = 2 : count = 270
+beauty = 3 : count = 10
+sum = 3000
+=== end of n = 10 ===
+beauty = 0 : count = 10721
+beauty = 1 : count = 3500
+beauty = 2 : count = 404
+beauty = 3 : count = 16
+sum = 4356
+=== end of n = 11 ===
+beauty = 0 : count = 15294
+beauty = 1 : count = 4858
+beauty = 2 : count = 562
+beauty = 3 : count = 22
+sum = 6048
+=== end of n = 12 ===
+beauty = 0 : count = 21249
+beauty = 1 : count = 6540
+beauty = 2 : count = 744
+beauty = 3 : count = 28
+sum = 8112
+=== end of n = 13 ===
+beauty = 0 : count = 28850
+beauty = 1 : count = 8582
+beauty = 2 : count = 950
+beauty = 3 : count = 34
+sum = 10584
+=== end of n = 14 ===
+=== end of d = 5 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2137
+beauty = 1 : count = 236
+beauty = 2 : count = 26
+beauty = 3 : count = 2
+sum = 294
+=== end of n = 7 ===
+beauty = 0 : count = 3404
+beauty = 1 : count = 620
+beauty = 2 : count = 68
+beauty = 3 : count = 4
+sum = 768
+=== end of n = 8 ===
+beauty = 0 : count = 5241
+beauty = 1 : count = 1188
+beauty = 2 : count = 126
+beauty = 3 : count = 6
+sum = 1458
+=== end of n = 9 ===
+beauty = 0 : count = 7816
+beauty = 1 : count = 1976
+beauty = 2 : count = 200
+beauty = 3 : count = 8
+sum = 2400
+=== end of n = 10 ===
+beauty = 0 : count = 11321
+beauty = 1 : count = 3020
+beauty = 2 : count = 290
+beauty = 3 : count = 10
+sum = 3630
+=== end of n = 11 ===
+beauty = 0 : count = 15972
+beauty = 1 : count = 4356
+beauty = 2 : count = 396
+beauty = 3 : count = 12
+sum = 5184
+=== end of n = 12 ===
+beauty = 0 : count = 22057
+beauty = 1 : count = 5928
+beauty = 2 : count = 558
+beauty = 3 : count = 18
+sum = 7098
+=== end of n = 13 ===
+beauty = 0 : count = 29800
+beauty = 1 : count = 7848
+beauty = 2 : count = 744
+beauty = 3 : count = 24
+sum = 9408
+=== end of n = 14 ===
+beauty = 0 : count = 39489
+beauty = 1 : count = 10152
+beauty = 2 : count = 954
+beauty = 3 : count = 30
+sum = 12150
+=== end of n = 15 ===
+=== end of d = 6 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 3746
+beauty = 1 : count = 318
+beauty = 2 : count = 30
+beauty = 3 : count = 2
+sum = 384
+=== end of n = 8 ===
+beauty = 0 : count = 5673
+beauty = 1 : count = 808
+beauty = 2 : count = 76
+beauty = 3 : count = 4
+sum = 972
+=== end of n = 9 ===
+beauty = 0 : count = 8350
+beauty = 1 : count = 1506
+beauty = 2 : count = 138
+beauty = 3 : count = 6
+sum = 1800
+=== end of n = 10 ===
+beauty = 0 : count = 11969
+beauty = 1 : count = 2448
+beauty = 2 : count = 216
+beauty = 3 : count = 8
+sum = 2904
+=== end of n = 11 ===
+beauty = 0 : count = 16746
+beauty = 1 : count = 3670
+beauty = 2 : count = 310
+beauty = 3 : count = 10
+sum = 4320
+=== end of n = 12 ===
+beauty = 0 : count = 22921
+beauty = 1 : count = 5208
+beauty = 2 : count = 420
+beauty = 3 : count = 12
+sum = 6084
+=== end of n = 13 ===
+beauty = 0 : count = 30758
+beauty = 1 : count = 7098
+beauty = 2 : count = 546
+beauty = 3 : count = 14
+sum = 8232
+=== end of n = 14 ===
+beauty = 0 : count = 40601
+beauty = 1 : count = 9268
+beauty = 2 : count = 736
+beauty = 3 : count = 20
+sum = 10800
+=== end of n = 15 ===
+beauty = 0 : count = 52714
+beauty = 1 : count = 11846
+beauty = 2 : count = 950
+beauty = 3 : count = 26
+sum = 13824
+=== end of n = 16 ===
+=== end of d = 7 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6113
+beauty = 1 : count = 412
+beauty = 2 : count = 34
+beauty = 3 : count = 2
+sum = 486
+=== end of n = 9 ===
+beauty = 0 : count = 8892
+beauty = 1 : count = 1020
+beauty = 2 : count = 84
+beauty = 3 : count = 4
+sum = 1200
+=== end of n = 10 ===
+beauty = 0 : count = 12625
+beauty = 1 : count = 1860
+beauty = 2 : count = 150
+beauty = 3 : count = 6
+sum = 2178
+=== end of n = 11 ===
+beauty = 0 : count = 17528
+beauty = 1 : count = 2968
+beauty = 2 : count = 232
+beauty = 3 : count = 8
+sum = 3456
+=== end of n = 12 ===
+beauty = 0 : count = 23841
+beauty = 1 : count = 4380
+beauty = 2 : count = 330
+beauty = 3 : count = 10
+sum = 5070
+=== end of n = 13 ===
+beauty = 0 : count = 31828
+beauty = 1 : count = 6132
+beauty = 2 : count = 444
+beauty = 3 : count = 12
+sum = 7056
+=== end of n = 14 ===
+beauty = 0 : count = 41777
+beauty = 1 : count = 8260
+beauty = 2 : count = 574
+beauty = 3 : count = 14
+sum = 9450
+=== end of n = 15 ===
+beauty = 0 : count = 54000
+beauty = 1 : count = 10800
+beauty = 2 : count = 720
+beauty = 3 : count = 16
+sum = 12288
+=== end of n = 16 ===
+beauty = 0 : count = 68897
+beauty = 1 : count = 13664
+beauty = 2 : count = 938
+beauty = 3 : count = 22
+sum = 15606
+=== end of n = 17 ===
+=== end of d = 8 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 9442
+beauty = 1 : count = 518
+beauty = 2 : count = 38
+beauty = 3 : count = 2
+sum = 600
+=== end of n = 10 ===
+beauty = 0 : count = 13289
+beauty = 1 : count = 1256
+beauty = 2 : count = 92
+beauty = 3 : count = 4
+sum = 1452
+=== end of n = 11 ===
+beauty = 0 : count = 18318
+beauty = 1 : count = 2250
+beauty = 2 : count = 162
+beauty = 3 : count = 6
+sum = 2592
+=== end of n = 12 ===
+beauty = 0 : count = 24769
+beauty = 1 : count = 3536
+beauty = 2 : count = 248
+beauty = 3 : count = 8
+sum = 4056
+=== end of n = 13 ===
+beauty = 0 : count = 32906
+beauty = 1 : count = 5150
+beauty = 2 : count = 350
+beauty = 3 : count = 10
+sum = 5880
+=== end of n = 14 ===
+beauty = 0 : count = 43017
+beauty = 1 : count = 7128
+beauty = 2 : count = 468
+beauty = 3 : count = 12
+sum = 8100
+=== end of n = 15 ===
+beauty = 0 : count = 55414
+beauty = 1 : count = 9506
+beauty = 2 : count = 602
+beauty = 3 : count = 14
+sum = 10752
+=== end of n = 16 ===
+beauty = 0 : count = 70433
+beauty = 1 : count = 12320
+beauty = 2 : count = 752
+beauty = 3 : count = 16
+sum = 13872
+=== end of n = 17 ===
+beauty = 0 : count = 88434
+beauty = 1 : count = 15606
+beauty = 2 : count = 918
+beauty = 3 : count = 18
+sum = 17496
+=== end of n = 18 ===
+=== end of d = 9 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 13961
+beauty = 1 : count = 636
+beauty = 2 : count = 42
+beauty = 3 : count = 2
+sum = 726
+=== end of n = 11 ===
+beauty = 0 : count = 19116
+beauty = 1 : count = 1516
+beauty = 2 : count = 100
+beauty = 3 : count = 4
+sum = 1728
+=== end of n = 12 ===
+beauty = 0 : count = 25705
+beauty = 1 : count = 2676
+beauty = 2 : count = 174
+beauty = 3 : count = 6
+sum = 3042
+=== end of n = 13 ===
+beauty = 0 : count = 33992
+beauty = 1 : count = 4152
+beauty = 2 : count = 264
+beauty = 3 : count = 8
+sum = 4704
+=== end of n = 14 ===
+beauty = 0 : count = 44265
+beauty = 1 : count = 5980
+beauty = 2 : count = 370
+beauty = 3 : count = 10
+sum = 6750
+=== end of n = 15 ===
+beauty = 0 : count = 56836
+beauty = 1 : count = 8196
+beauty = 2 : count = 492
+beauty = 3 : count = 12
+sum = 9216
+=== end of n = 16 ===
+beauty = 0 : count = 72041
+beauty = 1 : count = 10836
+beauty = 2 : count = 630
+beauty = 3 : count = 14
+sum = 12138
+=== end of n = 17 ===
+beauty = 0 : count = 90240
+beauty = 1 : count = 13936
+beauty = 2 : count = 784
+beauty = 3 : count = 16
+sum = 15552
+=== end of n = 18 ===
+beauty = 0 : count = 111817
+beauty = 1 : count = 17532
+beauty = 2 : count = 954
+beauty = 3 : count = 18
+sum = 19494
+=== end of n = 19 ===
+=== end of d = 10 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 19922
+beauty = 1 : count = 766
+beauty = 2 : count = 46
+beauty = 3 : count = 2
+sum = 864
+=== end of n = 12 ===
+beauty = 0 : count = 26649
+beauty = 1 : count = 1800
+beauty = 2 : count = 108
+beauty = 3 : count = 4
+sum = 2028
+=== end of n = 13 ===
+beauty = 0 : count = 35086
+beauty = 1 : count = 3138
+beauty = 2 : count = 186
+beauty = 3 : count = 6
+sum = 3528
+=== end of n = 14 ===
+beauty = 0 : count = 45521
+beauty = 1 : count = 4816
+beauty = 2 : count = 280
+beauty = 3 : count = 8
+sum = 5400
+=== end of n = 15 ===
+beauty = 0 : count = 58266
+beauty = 1 : count = 6870
+beauty = 2 : count = 390
+beauty = 3 : count = 10
+sum = 7680
+=== end of n = 16 ===
+beauty = 0 : count = 73657
+beauty = 1 : count = 9336
+beauty = 2 : count = 516
+beauty = 3 : count = 12
+sum = 10404
+=== end of n = 17 ===
+beauty = 0 : count = 92054
+beauty = 1 : count = 12250
+beauty = 2 : count = 658
+beauty = 3 : count = 14
+sum = 13608
+=== end of n = 18 ===
+beauty = 0 : count = 113841
+beauty = 1 : count = 15648
+beauty = 2 : count = 816
+beauty = 3 : count = 16
+sum = 17328
+=== end of n = 19 ===
+beauty = 0 : count = 139426
+beauty = 1 : count = 19566
+beauty = 2 : count = 990
+beauty = 3 : count = 18
+sum = 21600
+=== end of n = 20 ===
+=== end of d = 11 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 27601
+beauty = 1 : count = 908
+beauty = 2 : count = 50
+beauty = 3 : count = 2
+sum = 1014
+=== end of n = 13 ===
+beauty = 0 : count = 36188
+beauty = 1 : count = 2108
+beauty = 2 : count = 116
+beauty = 3 : count = 4
+sum = 2352
+=== end of n = 14 ===
+beauty = 0 : count = 46785
+beauty = 1 : count = 3636
+beauty = 2 : count = 198
+beauty = 3 : count = 6
+sum = 4050
+=== end of n = 15 ===
+beauty = 0 : count = 59704
+beauty = 1 : count = 5528
+beauty = 2 : count = 296
+beauty = 3 : count = 8
+sum = 6144
+=== end of n = 16 ===
+beauty = 0 : count = 75281
+beauty = 1 : count = 7820
+beauty = 2 : count = 410
+beauty = 3 : count = 10
+sum = 8670
+=== end of n = 17 ===
+beauty = 0 : count = 93876
+beauty = 1 : count = 10548
+beauty = 2 : count = 540
+beauty = 3 : count = 12
+sum = 11664
+=== end of n = 18 ===
+beauty = 0 : count = 115873
+beauty = 1 : count = 13748
+beauty = 2 : count = 686
+beauty = 3 : count = 14
+sum = 15162
+=== end of n = 19 ===
+beauty = 0 : count = 141680
+beauty = 1 : count = 17456
+beauty = 2 : count = 848
+beauty = 3 : count = 16
+sum = 19200
+=== end of n = 20 ===
+beauty = 0 : count = 171729
+beauty = 1 : count = 21708
+beauty = 2 : count = 1026
+beauty = 3 : count = 18
+sum = 23814
+=== end of n = 21 ===
+=== end of d = 12 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 37298
+beauty = 1 : count = 1062
+beauty = 2 : count = 54
+beauty = 3 : count = 2
+sum = 1176
+=== end of n = 14 ===
+beauty = 0 : count = 48057
+beauty = 1 : count = 2440
+beauty = 2 : count = 124
+beauty = 3 : count = 4
+sum = 2700
+=== end of n = 15 ===
+beauty = 0 : count = 61150
+beauty = 1 : count = 4170
+beauty = 2 : count = 210
+beauty = 3 : count = 6
+sum = 4608
+=== end of n = 16 ===
+beauty = 0 : count = 76913
+beauty = 1 : count = 6288
+beauty = 2 : count = 312
+beauty = 3 : count = 8
+sum = 6936
+=== end of n = 17 ===
+beauty = 0 : count = 95706
+beauty = 1 : count = 8830
+beauty = 2 : count = 430
+beauty = 3 : count = 10
+sum = 9720
+=== end of n = 18 ===
+beauty = 0 : count = 117913
+beauty = 1 : count = 11832
+beauty = 2 : count = 564
+beauty = 3 : count = 12
+sum = 12996
+=== end of n = 19 ===
+beauty = 0 : count = 143942
+beauty = 1 : count = 15330
+beauty = 2 : count = 714
+beauty = 3 : count = 14
+sum = 16800
+=== end of n = 20 ===
+beauty = 0 : count = 174225
+beauty = 1 : count = 19360
+beauty = 2 : count = 880
+beauty = 3 : count = 16
+sum = 21168
+=== end of n = 21 ===
+beauty = 0 : count = 209218
+beauty = 1 : count = 23958
+beauty = 2 : count = 1062
+beauty = 3 : count = 18
+sum = 26136
+=== end of n = 22 ===
+=== end of d = 13 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 38416
+sum = 0
+=== end of n = 14 ===
+beauty = 0 : count = 49337
+beauty = 1 : count = 1228
+beauty = 2 : count = 58
+beauty = 3 : count = 2
+sum = 1350
+=== end of n = 15 ===
+beauty = 0 : count = 62604
+beauty = 1 : count = 2796
+beauty = 2 : count = 132
+beauty = 3 : count = 4
+sum = 3072
+=== end of n = 16 ===
+beauty = 0 : count = 78553
+beauty = 1 : count = 4740
+beauty = 2 : count = 222
+beauty = 3 : count = 6
+sum = 5202
+=== end of n = 17 ===
+beauty = 0 : count = 97544
+beauty = 1 : count = 7096
+beauty = 2 : count = 328
+beauty = 3 : count = 8
+sum = 7776
+=== end of n = 18 ===
+beauty = 0 : count = 119961
+beauty = 1 : count = 9900
+beauty = 2 : count = 450
+beauty = 3 : count = 10
+sum = 10830
+=== end of n = 19 ===
+beauty = 0 : count = 146212
+beauty = 1 : count = 13188
+beauty = 2 : count = 588
+beauty = 3 : count = 12
+sum = 14400
+=== end of n = 20 ===
+beauty = 0 : count = 176729
+beauty = 1 : count = 16996
+beauty = 2 : count = 742
+beauty = 3 : count = 14
+sum = 18522
+=== end of n = 21 ===
+beauty = 0 : count = 211968
+beauty = 1 : count = 21360
+beauty = 2 : count = 912
+beauty = 3 : count = 16
+sum = 23232
+=== end of n = 22 ===
+beauty = 0 : count = 252409
+beauty = 1 : count = 26316
+beauty = 2 : count = 1098
+beauty = 3 : count = 18
+sum = 28566
+=== end of n = 23 ===
+=== end of d = 14 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 38416
+sum = 0
+=== end of n = 14 ===
+beauty = 0 : count = 50625
+sum = 0
+=== end of n = 15 ===
+beauty = 0 : count = 64066
+beauty = 1 : count = 1406
+beauty = 2 : count = 62
+beauty = 3 : count = 2
+sum = 1536
+=== end of n = 16 ===
+beauty = 0 : count = 80201
+beauty = 1 : count = 3176
+beauty = 2 : count = 140
+beauty = 3 : count = 4
+sum = 3468
+=== end of n = 17 ===
+beauty = 0 : count = 99390
+beauty = 1 : count = 5346
+beauty = 2 : count = 234
+beauty = 3 : count = 6
+sum = 5832
+=== end of n = 18 ===
+beauty = 0 : count = 122017
+beauty = 1 : count = 7952
+beauty = 2 : count = 344
+beauty = 3 : count = 8
+sum = 8664
+=== end of n = 19 ===
+beauty = 0 : count = 148490
+beauty = 1 : count = 11030
+beauty = 2 : count = 470
+beauty = 3 : count = 10
+sum = 12000
+=== end of n = 20 ===
+beauty = 0 : count = 179241
+beauty = 1 : count = 14616
+beauty = 2 : count = 612
+beauty = 3 : count = 12
+sum = 15876
+=== end of n = 21 ===
+beauty = 0 : count = 214726
+beauty = 1 : count = 18746
+beauty = 2 : count = 770
+beauty = 3 : count = 14
+sum = 20328
+=== end of n = 22 ===
+beauty = 0 : count = 255425
+beauty = 1 : count = 23456
+beauty = 2 : count = 944
+beauty = 3 : count = 16
+sum = 25392
+=== end of n = 23 ===
+beauty = 0 : count = 301842
+beauty = 1 : count = 28782
+beauty = 2 : count = 1134
+beauty = 3 : count = 18
+sum = 31104
+=== end of n = 24 ===
+=== end of d = 15 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 38416
+sum = 0
+=== end of n = 14 ===
+beauty = 0 : count = 50625
+sum = 0
+=== end of n = 15 ===
+beauty = 0 : count = 65536
+sum = 0
+=== end of n = 16 ===
+beauty = 0 : count = 81857
+beauty = 1 : count = 1596
+beauty = 2 : count = 66
+beauty = 3 : count = 2
+sum = 1734
+=== end of n = 17 ===
+beauty = 0 : count = 101244
+beauty = 1 : count = 3580
+beauty = 2 : count = 148
+beauty = 3 : count = 4
+sum = 3888
+=== end of n = 18 ===
+beauty = 0 : count = 124081
+beauty = 1 : count = 5988
+beauty = 2 : count = 246
+beauty = 3 : count = 6
+sum = 6498
+=== end of n = 19 ===
+beauty = 0 : count = 150776
+beauty = 1 : count = 8856
+beauty = 2 : count = 360
+beauty = 3 : count = 8
+sum = 9600
+=== end of n = 20 ===
+beauty = 0 : count = 181761
+beauty = 1 : count = 12220
+beauty = 2 : count = 490
+beauty = 3 : count = 10
+sum = 13230
+=== end of n = 21 ===
+beauty = 0 : count = 217492
+beauty = 1 : count = 16116
+beauty = 2 : count = 636
+beauty = 3 : count = 12
+sum = 17424
+=== end of n = 22 ===
+beauty = 0 : count = 258449
+beauty = 1 : count = 20580
+beauty = 2 : count = 798
+beauty = 3 : count = 14
+sum = 22218
+=== end of n = 23 ===
+beauty = 0 : count = 305136
+beauty = 1 : count = 25648
+beauty = 2 : count = 976
+beauty = 3 : count = 16
+sum = 27648
+=== end of n = 24 ===
+beauty = 0 : count = 358081
+beauty = 1 : count = 31356
+beauty = 2 : count = 1170
+beauty = 3 : count = 18
+sum = 33750
+=== end of n = 25 ===
+=== end of d = 16 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 38416
+sum = 0
+=== end of n = 14 ===
+beauty = 0 : count = 50625
+sum = 0
+=== end of n = 15 ===
+beauty = 0 : count = 65536
+sum = 0
+=== end of n = 16 ===
+beauty = 0 : count = 83521
+sum = 0
+=== end of n = 17 ===
+beauty = 0 : count = 103106
+beauty = 1 : count = 1798
+beauty = 2 : count = 70
+beauty = 3 : count = 2
+sum = 1944
+=== end of n = 18 ===
+beauty = 0 : count = 126153
+beauty = 1 : count = 4008
+beauty = 2 : count = 156
+beauty = 3 : count = 4
+sum = 4332
+=== end of n = 19 ===
+beauty = 0 : count = 153070
+beauty = 1 : count = 6666
+beauty = 2 : count = 258
+beauty = 3 : count = 6
+sum = 7200
+=== end of n = 20 ===
+beauty = 0 : count = 184289
+beauty = 1 : count = 9808
+beauty = 2 : count = 376
+beauty = 3 : count = 8
+sum = 10584
+=== end of n = 21 ===
+beauty = 0 : count = 220266
+beauty = 1 : count = 13470
+beauty = 2 : count = 510
+beauty = 3 : count = 10
+sum = 14520
+=== end of n = 22 ===
+beauty = 0 : count = 261481
+beauty = 1 : count = 17688
+beauty = 2 : count = 660
+beauty = 3 : count = 12
+sum = 19044
+=== end of n = 23 ===
+beauty = 0 : count = 308438
+beauty = 1 : count = 22498
+beauty = 2 : count = 826
+beauty = 3 : count = 14
+sum = 24192
+=== end of n = 24 ===
+beauty = 0 : count = 361665
+beauty = 1 : count = 27936
+beauty = 2 : count = 1008
+beauty = 3 : count = 16
+sum = 30000
+=== end of n = 25 ===
+beauty = 0 : count = 421714
+beauty = 1 : count = 34038
+beauty = 2 : count = 1206
+beauty = 3 : count = 18
+sum = 36504
+=== end of n = 26 ===
+=== end of d = 17 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 38416
+sum = 0
+=== end of n = 14 ===
+beauty = 0 : count = 50625
+sum = 0
+=== end of n = 15 ===
+beauty = 0 : count = 65536
+sum = 0
+=== end of n = 16 ===
+beauty = 0 : count = 83521
+sum = 0
+=== end of n = 17 ===
+beauty = 0 : count = 104976
+sum = 0
+=== end of n = 18 ===
+beauty = 0 : count = 128233
+beauty = 1 : count = 2012
+beauty = 2 : count = 74
+beauty = 3 : count = 2
+sum = 2166
+=== end of n = 19 ===
+beauty = 0 : count = 155372
+beauty = 1 : count = 4460
+beauty = 2 : count = 164
+beauty = 3 : count = 4
+sum = 4800
+=== end of n = 20 ===
+beauty = 0 : count = 186825
+beauty = 1 : count = 7380
+beauty = 2 : count = 270
+beauty = 3 : count = 6
+sum = 7938
+=== end of n = 21 ===
+beauty = 0 : count = 223048
+beauty = 1 : count = 10808
+beauty = 2 : count = 392
+beauty = 3 : count = 8
+sum = 11616
+=== end of n = 22 ===
+beauty = 0 : count = 264521
+beauty = 1 : count = 14780
+beauty = 2 : count = 530
+beauty = 3 : count = 10
+sum = 15870
+=== end of n = 23 ===
+beauty = 0 : count = 311748
+beauty = 1 : count = 19332
+beauty = 2 : count = 684
+beauty = 3 : count = 12
+sum = 20736
+=== end of n = 24 ===
+beauty = 0 : count = 365257
+beauty = 1 : count = 24500
+beauty = 2 : count = 854
+beauty = 3 : count = 14
+sum = 26250
+=== end of n = 25 ===
+beauty = 0 : count = 425600
+beauty = 1 : count = 30320
+beauty = 2 : count = 1040
+beauty = 3 : count = 16
+sum = 32448
+=== end of n = 26 ===
+beauty = 0 : count = 493353
+beauty = 1 : count = 36828
+beauty = 2 : count = 1242
+beauty = 3 : count = 18
+sum = 39366
+=== end of n = 27 ===
+=== end of d = 18 ===
+beauty = 0 : count = 1
+sum = 0
+=== end of n = 1 ===
+beauty = 0 : count = 16
+sum = 0
+=== end of n = 2 ===
+beauty = 0 : count = 81
+sum = 0
+=== end of n = 3 ===
+beauty = 0 : count = 256
+sum = 0
+=== end of n = 4 ===
+beauty = 0 : count = 625
+sum = 0
+=== end of n = 5 ===
+beauty = 0 : count = 1296
+sum = 0
+=== end of n = 6 ===
+beauty = 0 : count = 2401
+sum = 0
+=== end of n = 7 ===
+beauty = 0 : count = 4096
+sum = 0
+=== end of n = 8 ===
+beauty = 0 : count = 6561
+sum = 0
+=== end of n = 9 ===
+beauty = 0 : count = 10000
+sum = 0
+=== end of n = 10 ===
+beauty = 0 : count = 14641
+sum = 0
+=== end of n = 11 ===
+beauty = 0 : count = 20736
+sum = 0
+=== end of n = 12 ===
+beauty = 0 : count = 28561
+sum = 0
+=== end of n = 13 ===
+beauty = 0 : count = 38416
+sum = 0
+=== end of n = 14 ===
+beauty = 0 : count = 50625
+sum = 0
+=== end of n = 15 ===
+beauty = 0 : count = 65536
+sum = 0
+=== end of n = 16 ===
+beauty = 0 : count = 83521
+sum = 0
+=== end of n = 17 ===
+beauty = 0 : count = 104976
+sum = 0
+=== end of n = 18 ===
+beauty = 0 : count = 130321
+sum = 0
+=== end of n = 19 ===
+beauty = 0 : count = 157682
+beauty = 1 : count = 2238
+beauty = 2 : count = 78
+beauty = 3 : count = 2
+sum = 2400
+=== end of n = 20 ===
+beauty = 0 : count = 189369
+beauty = 1 : count = 4936
+beauty = 2 : count = 172
+beauty = 3 : count = 4
+sum = 5292
+=== end of n = 21 ===
+beauty = 0 : count = 225838
+beauty = 1 : count = 8130
+beauty = 2 : count = 282
+beauty = 3 : count = 6
+sum = 8712
+=== end of n = 22 ===
+beauty = 0 : count = 267569
+beauty = 1 : count = 11856
+beauty = 2 : count = 408
+beauty = 3 : count = 8
+sum = 12696
+=== end of n = 23 ===
+beauty = 0 : count = 315066
+beauty = 1 : count = 16150
+beauty = 2 : count = 550
+beauty = 3 : count = 10
+sum = 17280
+=== end of n = 24 ===
+beauty = 0 : count = 368857
+beauty = 1 : count = 21048
+beauty = 2 : count = 708
+beauty = 3 : count = 12
+sum = 22500
+=== end of n = 25 ===
+beauty = 0 : count = 429494
+beauty = 1 : count = 26586
+beauty = 2 : count = 882
+beauty = 3 : count = 14
+sum = 28392
+=== end of n = 26 ===
+beauty = 0 : count = 497553
+beauty = 1 : count = 32800
+beauty = 2 : count = 1072
+beauty = 3 : count = 16
+sum = 34992
+=== end of n = 27 ===
+beauty = 0 : count = 573634
+beauty = 1 : count = 39726
+beauty = 2 : count = 1278
+beauty = 3 : count = 18
+sum = 42336
+=== end of n = 28 ===
+=== end of d = 19 ===
