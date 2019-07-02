@@ -40,7 +40,6 @@ int main(){
     {
         int exp = 2;
         int tmp = pow(i, exp);
-
         while(tmp <= 1000)
         {
             isExponential[tmp] = true;
