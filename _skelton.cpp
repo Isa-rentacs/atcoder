@@ -28,6 +28,14 @@ using namespace std;
 #define MP make_pair
 #define ll long long
 
+#define FILL(ptr, value) FILL_((ptr), sizeof(ptr)/sizeof(value), (value))
+ 
+template <typename T>
+void FILL_(void * ptr, size_t size, T value){
+  std::fill((T*)ptr, (T*)ptr+size, value);
+}
+ 
+
 inline int toInt(string s){int v;istringstream sin(s);sin>>v;return v;}
 template<class T> inline string toString(T x){ostringstream sout;sout<<x;return sout.str();}
 
